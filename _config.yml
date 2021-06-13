@@ -9,7 +9,7 @@ name: choi nara
 description: photographer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![_config.yml]({{ site.baseurl }}/images/selpy.jpg)
+#avatar: ![_config.yml]({{ site.baseurl }}/images/selpy.jpg)
 
 #
 # Flags below are optional
